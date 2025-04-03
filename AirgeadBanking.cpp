@@ -12,7 +12,7 @@
  * 
  ***************/
 
-#include "AirgeadbankingHeader.h"  // inherits class and attributed from header file
+#include "AirgeadBankingHeader.h"  // inherits class and attributed from header file
 
 
 /*
